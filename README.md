@@ -1,6 +1,6 @@
 # LinguaBoost - Language Learning Landing Page Template
 
-![LinguaBoost Logo](https://placehold.co/600x400/4F46E5/FFFFFF?text=LinguaBoost)
+![image](https://github.com/user-attachments/assets/b0d56394-8b2e-4fde-a0a3-caae889c0d45)
 
 ## Overview
 
